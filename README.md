@@ -2,7 +2,7 @@
 Welcome to my first GitHub repository!
 
 ## About Me
-Hi, I'm [Shaikha AlMeqbaali], an intern learning GitHub.
+Hi, I'm [Shaikha AlMeqbaali], a student learning GitHub. I am currently an intern at Tahaluf, gaining hands-on experience in technology and development.
 
 ## Contact Information
 - **Email:** [shaikha.ars@gmail.com](mailto:shaikha.ars@gmail.com)
